@@ -3,4 +3,5 @@ public class Course{
    private String courseName;
    private int score;
    private String studentName;
+
 }
